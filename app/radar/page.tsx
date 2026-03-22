@@ -9,6 +9,11 @@ export default function RadarPage() {
         title="Who is closest to 4:20 right now?"
         description="Track the next city to hit 4:20, watch the countdown, and fire the Cannonball overlay when the moment lands."
       />
+      <div className="glass-panel mx-1 rounded-[1.5rem] px-4 py-3 text-center">
+        <p className="font-display text-lg italic text-[var(--text)] sm:text-xl">
+          &quot;It&apos;s 4:20 somewhere in the world.&quot;
+        </p>
+      </div>
       <RadarBoard />
     </div>
   );
