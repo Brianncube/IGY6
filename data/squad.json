@@ -1,0 +1,32 @@
+[
+  {
+    "id": "apewifak47",
+    "gamerTag": "ApeWifAK47",
+    "role": "Frontline Pressure",
+    "specialty": "Aggressive pushes, clutch finishes, and chaos control",
+    "avatar": "AA",
+    "crew": "IGY6",
+    "youtubeChannelUrl": "https://www.youtube.com/@ApewifAK_47",
+    "youtubeLabel": "YouTube Channel"
+  },
+  {
+    "id": "xrunnbearxn8ivx",
+    "gamerTag": "xRuNnBEARxN8IVx",
+    "role": "Shot Caller",
+    "specialty": "Lobby control, rotations, and squad direction",
+    "avatar": "RB",
+    "crew": "IGY6",
+    "youtubeChannelUrl": "https://www.youtube.com/@RunninBear87",
+    "youtubeLabel": "YouTube Channel"
+  },
+  {
+    "id": "blxcksparrow",
+    "gamerTag": "BlxckSparrow",
+    "role": "Wildcard",
+    "specialty": "Flanks, cleanups, and momentum swings",
+    "avatar": "BS",
+    "crew": "GWAR",
+    "youtubeChannelUrl": "https://www.youtube.com/@blxckSparrow",
+    "youtubeLabel": "YouTube Channel"
+  }
+]
